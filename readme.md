@@ -1,4 +1,4 @@
-# ⚙️ MARK LV (55)
+# ⚙️ NOVA AI AGENTIC DESKTOP ASSISTANT
 ### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
 
 > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
